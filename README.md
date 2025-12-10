@@ -5,7 +5,7 @@ A Flutter plugin to fetch approximate real-time network speed (download/upload) 
 
 ## Example
 
-![Network Speed Example](https://github.com/PhantomQuantum/flutter_network_speed/blob/master/assets/demo.jpg)
+![Network Speed Example](https://raw.githubusercontent.com/PhantomQuantum/flutter_network_speed/master/assets/demo.jpg)
 
 
 
