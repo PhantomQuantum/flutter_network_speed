@@ -3,6 +3,11 @@
 
 A Flutter plugin to fetch approximate real-time network speed (download/upload) on Android & iOS.
 
+## Example
+
+![Network Speed Example](https://raw.githubusercontent.com/yourname/flutter_network_speed/main/assets/demo.jpg)
+
+
 
 ## Usage
 1. Add dependency to `pubspec.yaml`

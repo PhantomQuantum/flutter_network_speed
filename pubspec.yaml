@@ -1,7 +1,9 @@
 name: flutter_network_speed
 description: "Network speed."
 version: 0.0.1
-homepage:
+author: PhantomQuantum
+homepage: https://github.com/PhantomQuantum/flutter_network_speed
+
 
 environment:
   sdk: ^3.10.3
